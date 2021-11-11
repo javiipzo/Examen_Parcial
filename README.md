@@ -1,8 +1,4 @@
 # Examen_Parcial
-
-''''
-
-
 ENUNCIADO ACTIVIDAD 1
 
 
@@ -84,7 +80,7 @@ Nota: tenemos 2 opciones
 a)	Si hay usuarios repetidos nos quedamos con un solo dato
 b)	Si nos quedamos con todos los datos repetidos buscar el más cercano a la conversión (este punto es más complicado, es solo para quienes se atrevan)
 1)	Con estos datos ya unidos y tratados debemos realizar diferentes informes que se proponen en el apartado siguiente (Entrega individual)
-''''
+
 
 
 

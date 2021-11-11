@@ -1,5 +1,7 @@
 # Examen_Parcial
 
+''''
+
 
 ENUNCIADO ACTIVIDAD 1
 
@@ -46,7 +48,7 @@ Luego siguen: gclid, iduser, uuid que ya los hemos definido anteriormente Finalm
 date: fecha de la conversión hour: hora de la conversión
 id_lead: identificador único de la conversión
 lead_type: tipo de conversión, CALL el usuario llama directamente al call center, FORM el usuario rellena un formulario y espera que el call center lo
- 
+
 
 llame
 result: resultado después de haber hablado con el call center
@@ -82,5 +84,8 @@ Nota: tenemos 2 opciones
 a)	Si hay usuarios repetidos nos quedamos con un solo dato
 b)	Si nos quedamos con todos los datos repetidos buscar el más cercano a la conversión (este punto es más complicado, es solo para quienes se atrevan)
 1)	Con estos datos ya unidos y tratados debemos realizar diferentes informes que se proponen en el apartado siguiente (Entrega individual)
-#
+''''
+
+
+
 
